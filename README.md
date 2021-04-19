@@ -1,4 +1,4 @@
-# Very-Easy-Selenium
+# Very Easy Selenium
 SELENIUM, BUT EASY.
 
 Obrigado por estar utilizando este projeto.
