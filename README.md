@@ -53,6 +53,7 @@ my_agent_007.Close()
 
 
 Confira todas as funções; Não podem ser chamadas diretamente!
+==
 
 Access_Url(url) # Acessa uma URL
 
