@@ -26,29 +26,9 @@ PYTHON 3
 
 ===
 
-Uso.
-
-
-1- Primeiro você precisa chamar o Navegador, e para isso temos o seguinte comando.
-==
-
-my_agent_007 = Browser(log = True) # Os logs mostraram xpath não encontrados. Deixe ativo.
-
-
-Agora com seu "agente" criado, vamos manipula-lo.
-
-Vamos acessar uma URL, pode ser o google.com
-
+my_agent_007 = Browser(log = True) # log = True / Se você quiser ver os logs.
 my_agent_007.Access_Url("https://www.google.com")
-==
-
-Fácil, não ?
-
-E para finalizar o seu agente. 
-
 my_agent_007.Close()
-==
-
 
 
 
